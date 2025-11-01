@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# DB va temp
+*.sqlite
+*.db
+temp/
+/tmp/
+
+# Maxfiy
+config.json  # Token bor, yuklamang
+bot.log
+
+# OS
+.DS_Store
+Thumbs.db
